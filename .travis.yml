@@ -10,7 +10,7 @@ jdk:
 gemfile:
   - gemfiles/3.0.gemfile
   - gemfiles/3.1.gemfile
-  - gemfiles/3.2.gemfile
+  - gemfiles/3.2.gemfilel;l;l;
 branches:
   only:
     - master
